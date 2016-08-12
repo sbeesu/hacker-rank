@@ -9,6 +9,7 @@ public class Main {
         {
             String IP = in.next();
             System.out.println(IP.matches(pattern));
+            
         }
         
         in.close();
